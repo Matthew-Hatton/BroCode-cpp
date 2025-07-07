@@ -23,6 +23,12 @@ int main(){
     bool student = true;
     bool light = false;
 
+    // string (sequence of text)
+    std::string name = "Matty";
+    std::string food = "Pizza";
+
+    std::cout << "Hello " << name << '\n';;
+    std::cout << "You like " << food;
 
     return 0;
 }
