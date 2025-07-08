@@ -1,6 +1,7 @@
 Repository which contains code for my C++ learning experience. Will contain very basic programs and document the learning process.
 
 Tracking:
+
 Day 1: 
 Downloaded and installed C++.
 Linked all to GitHub.
@@ -11,3 +12,5 @@ Difference between compiled language and interpreted language:
 	interpreter (R, Python) takes each line of code, translates to machine code, delivers output (pretty slow)
 	compiler (C, C#, C++) takes all code at once, translates and gives back to user (much faster)
 	
+Day 2:
+Namepsaces, aliases - create additional name for data type, basic arithmetic
