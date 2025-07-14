@@ -2,7 +2,7 @@
 // local variables = declared inside a function or block {}
 // global variables = declared outside of all functions
 
-int myNum = 3; // global variable - best to avoid
+int myNum = 3; // global variable - best to avoid, pollutes global namespace
 
 void printNum();
 
