@@ -7,7 +7,7 @@ int main() {
 
     auto start = std::chrono::high_resolution_clock::now();
 
-    for (long long i = 0; i < N; ++i) {
+    for (long long i = 0; i < N; i++) {
         count += i;
     }
 
