@@ -76,7 +76,7 @@ int main(){
 }
 
 void showBalance(double balance){
-    std::cout << "Your balance is: $" << std::setprecision(2) << std::fixed<< balance <<std::endl; 
+    std::cout << "Your balance is: $" << std::setprecision(2) << std::fixed << balance <<std::endl; 
 }
 
 double deposit(){
@@ -93,7 +93,7 @@ double deposit(){
 }
 
 double withdraw(double balance){
-    double amount; // variable names can be reused inside functions!!!
+    double amount; // variable names can be reused inside seperate functions!!!
     std::cout << "Enter withdrawl amount ($): ";
     std::cin >> amount;
     if (amount <= balance && amount > 0)
