@@ -14,3 +14,6 @@ Difference between compiled language and interpreted language:
 	
 Day 2:
 Namepsaces, aliases - create additional name for data type, basic arithmetic
+
+Day 3-10:
+If statements, for loops, small programs, do while, random numbers, return, functions, knowledge on program execution, and frequent learning about pointers and memory management
