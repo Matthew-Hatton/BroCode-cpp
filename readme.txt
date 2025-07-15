@@ -1,4 +1,5 @@
 Repository which contains code for my C++ learning experience. Will contain very basic programs and document the learning process.
+Resource used: BroCode C++ Full course for free (https://youtu.be/-TkoO8Z07hI?si=TNAr1Zj9cim_0iTQ)
 
 Tracking:
 
