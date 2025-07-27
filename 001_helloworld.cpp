@@ -1,4 +1,4 @@
-#include <iostream> // header file which contains functions for basic input/output operations
+#include <iostream> // header file which contains functions for basic input/output operations....
 
 int main(){ // where program begins
     std::cout <<"I like C++" << std::endl; // cout = character output
